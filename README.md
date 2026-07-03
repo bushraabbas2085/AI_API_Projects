@@ -20,7 +20,6 @@ A Python application that monitors product prices and helps track price changes.
 **Technologies**
 - Python
 - Requests
-- BeautifulSoup
 
 ---
 
