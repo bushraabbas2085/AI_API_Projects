@@ -60,7 +60,7 @@ AI_API_Projects/
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/your-username/AI_API_Projects.git
+git clone https://github.com/bushraabbas2085/AI_API_Projects.git
 ```
 
 2. Navigate to the repository.
